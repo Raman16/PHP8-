@@ -1,0 +1,8 @@
+Hello World!
+scandir — List files and directories inside the specified path
+mkdir  - Makes directory
+rmdir - remove directory
+(The directory must be empty, and the relevant permissions must permit this)
+unlink('foo.txt')
+copy('foo.txt',foo1.txt');
+rename('foo.txt','foo1.txt')
